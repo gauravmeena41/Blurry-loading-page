@@ -1,2 +1,1 @@
-Hello git and github
-2nd commit
+This is a simple project for blurry loading page.
